@@ -1,0 +1,30 @@
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\bin\Debug\net6.0\Jarvis.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\bin\Debug\net6.0\Jarvis.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\bin\Debug\net6.0\Jarvis.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\bin\Debug\net6.0\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\bin\Debug\net6.0\Jarvis.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\refint\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\Jarvis.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Jarvis\obj\Debug\net6.0\ref\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\bin\Debug\net6.0\Jarvis.exe
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\bin\Debug\net6.0\Jarvis.deps.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\bin\Debug\net6.0\Jarvis.runtimeconfig.json
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\bin\Debug\net6.0\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\bin\Debug\net6.0\Jarvis.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.csproj.AssemblyReference.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.AssemblyInfoInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.AssemblyInfo.cs
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\refint\Jarvis.dll
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.pdb
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\Jarvis.genruntimeconfig.cache
+C:\Users\Lucas\OneDrive\Área de Trabalho\Projetos Pessoais\Jarvis\obj\Debug\net6.0\ref\Jarvis.dll
